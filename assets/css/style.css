@@ -1,3 +1,19 @@
+body{
+	background: url("../images/background.jpg");
+}
+
 .row{
 	margin-bottom: 10px;
+}
+
+.randomNumberDiv {
+	background-color: lightgreen;
+}
+
+.winsLossesDiv {
+	background-color: lightblue;
+}
+
+.scoreDiv {
+	background-color: pink;
 }
